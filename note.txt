@@ -1,0 +1,44 @@
+Lazy loading technique
+..........................
+used to easy load pages where it has max traffic
+
+creating module
+.......................
+ng g module modulename
+
+lazy loaded module creation
+.............................
+ng g module modulename --route modulename --module rootmodulename
+
+Cmd to install json server
+.................................
+npm i --save json-server
+
+cmd to run json server
+........................
+npx json-server --watch db.json --port 3000
+
+categoryId[here in this project for me]
+...................
+Earrings-1
+Bangles-2
+Necklace-3
+Anklets-4
+rings-5
+
+Access datas from component path
+...................................
+class-ActivatedRoute
+methods-params
+
+cmd to create pipe
+........................
+ng g pipe filter
+
+BehaviourSubject in angular
+...........................
+rxjs
+
+
+
+
